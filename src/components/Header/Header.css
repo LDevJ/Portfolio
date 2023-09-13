@@ -1,0 +1,21 @@
+ul{
+    background-color: #2c2c2c;
+}
+
+li a{
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #2c2c2c;
+}
+
+div div #navbar-default{
+    background-color: #2c2c2c;
+}
+
+@media only screen and (max-width: 767px) {
+    .navegacion{
+        background-color: #000;
+    }
+}
